@@ -1,3 +1,5 @@
+Helen's clone for the git workshop
+
 HTML5-Asteroids
 ===============
 
